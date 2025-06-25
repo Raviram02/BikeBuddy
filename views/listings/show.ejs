@@ -109,7 +109,7 @@
       </div>
 
       <% if (currUser && currUser._id.equals(listing.owner._id)) { %>
-      <div class="btns mt-1">
+      <div class="btns">
         <form
           method="POST"
           action="/listings/<%= listing._id %>/toggle-rented"
