@@ -1,6 +1,6 @@
 # 🚲 BikeBuddy
 
-**BIKE-BUDDY** is a full-stack web application built for renting two-wheelers (bikes and scooties). It allows users to browse available vehicles, locate nearby rental points, and leave reviews based on their rental experience. This platform is designed to help both users and vehicle owners manage rentals efficiently.
+**BikeBuddy** is a full-stack web application built for renting two-wheelers (bikes and scooties). It allows users to browse available vehicles, locate nearby rental points, and leave reviews based on their rental experience. This platform is designed to help both users and vehicle owners manage rentals efficiently.
 
 ---
 
